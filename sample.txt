@@ -1,0 +1,5 @@
+Secure Hashing and Encryption Assignment
+
+This file is used to demonstrate SHA-256 file hashing.
+It is also used to demonstrate RSA digital signatures.
+Changing this file after it is signed should cause signature verification to fail.
